@@ -1,0 +1,24 @@
+{
+	"customers": [
+		{"name": "ahmed"},
+		{"name": "hassan"},
+		{"name": "Youssif"},
+		{"name": "Qassem"},
+		{"name": "Ali"},
+		{"name": "Ameer"},
+		{"name": "Fatima"},
+		{"name": "Heba"},
+		{"name": "Zainab"},
+		{"name": "Hajr"},
+		{"name": "Mousa"},
+		{"name": "Abbass"},
+		{"name": "Hussein"},
+		{"name": "Abdullah"},
+		{"name": "Amjad"},
+		{"name": "Ebtihal"},
+		{"name": "Sadiqa"},
+		{"name": "Afnan"},
+		{"name": "Genan"},
+		{"name": "Mohammed"}
+	]
+}
